@@ -11,8 +11,6 @@
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
-
 [Last Updated August, 2020](https://en.wikipedia.org/wiki/Portal:Current_events/August_2020)
 
 [website]: http://stewartengart.com
