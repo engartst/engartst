@@ -1,5 +1,4 @@
-- 🔭 I recently graduated with a PhD from the University of California, Santa Barbara.
-- 💬 Ask me about audio.
+- 💬 Ask me about digital signal processing or library systems development.
 - 📫 How to reach me: Message through [my website.][website]
 - 😄 Pronouns: he/him
 
