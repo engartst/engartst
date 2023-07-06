@@ -4,6 +4,6 @@
 
 [<img align="left" alt="stewartengart.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-[Last Updated January, 2022](https://en.wikipedia.org/wiki/Portal:Current_events/January_2022)
+[Last Updated July, 2023](https://en.wikipedia.org/wiki/Portal:Current_events/July_2023)
 
-[website]: http://uisounddesign.com
+[website]: http://stewartengart.com
